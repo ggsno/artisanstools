@@ -1,9 +1,7 @@
----
-description: 좋은 코드의 가치와 의미를 고민하고 연습하기
-cover: >-
-  https://images.unsplash.com/photo-1672108654202-9f632dc907fe?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NzM3MzIyNjQ&ixlib=rb-4.0.3&q=80
-coverY: 0
----
+# Artisan's Tools
 
-# 클린코드
+## 장인의 도구들
 
+공부한 것들을 기록하는 블로그입니다.&#x20;
+
+[https://factory-1.gitbook.io/artisans-tools/](https://factory-1.gitbook.io/artisans-tools/)
