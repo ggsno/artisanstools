@@ -11,5 +11,5 @@
 
 ***
 
-* [⚛ Atomic Design](atomic-design/README.md)
+* [⚛ Atomic Design](atomic-design.md)
   * [적용기 \*작성중\*](atomic-design/undefined.md)

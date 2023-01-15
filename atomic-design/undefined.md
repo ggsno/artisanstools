@@ -2,7 +2,7 @@
 
 ### Atom과 Molecule의 경계
 
-![](<../.gitbook/assets/image (1).png>)
+![](../.gitbook/assets/image.png)
 
 어디까지가 Atom이고 어디까지가 Molecule일까
 
