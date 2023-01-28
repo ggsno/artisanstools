@@ -17,13 +17,14 @@
 
 ## 🟪 Design pattern
 
-* [Atomic Design](design-pattern/atomic-design/README.md)
-  * [적용기 \*작성중\*](design-pattern/atomic-design/undefined.md)
+* [Atomic Design](atomic-design.md)
+  * [적용기 \*작성중\*](atomic-design/undefined.md)
 
 ## 📚 책 <a href="#books" id="books"></a>
 
 * [리팩터링 2판](books/2.md)
-* [Clean Code 클린 코드](books/clean-code/README.md)
-  * [1. 깨끗한 코드](books/clean-code/1..md)
-  * [2. 의미 있는 이름](books/clean-code/2..md)
-  * [3. 함수 \*작성중\*](books/clean-code/3..md)
+* [Clean Code 클린 코드](books/undefined/README.md)
+  * [1. 깨끗한 코드](books/undefined/1..md)
+  * [2. 의미 있는 이름](books/undefined/2..md)
+  * [3. 함수 \*작성중\*](books/undefined/3..md)
+  * [5. 형식 맞추기](books/clean-code/5..md)
