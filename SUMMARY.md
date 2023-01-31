@@ -4,7 +4,8 @@
 
 ## ◼ Computer Science
 
-* [알고리즘](computer-science/undefined.md)
+* [알고리즘](computer-science/undefined/README.md)
+  * [이진 탐색 시 pivot 지정 고려 사항](computer-science/undefined/pivot.md)
 * [자료구조](computer-science/undefined-1.md)
 * [네트워크](computer-science/undefined-2.md)
 
