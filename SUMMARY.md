@@ -2,13 +2,6 @@
 
 * [🪑 Artisan's Tools](README.md)
 
-## ◼ Computer Science
-
-* [알고리즘](computer-science/undefined/README.md)
-  * [이진 탐색 시 pivot 지정 고려 사항](computer-science/undefined/pivot.md)
-* [자료구조](computer-science/undefined-1.md)
-* [네트워크](computer-science/undefined-2.md)
-
 ## 🟦 web front-end
 
 * [Javascript](web-front-end/javascript/README.md)
@@ -17,6 +10,13 @@
   * [제어/비제어 컴포넌트](web-front-end/react/undefined.md)
 * [CI / CD](web-front-end/ci-cd/README.md)
   * [CD :: github actions + AWS S3](web-front-end/ci-cd/cd-github-actions-+-aws-s3.md)
+
+## ◼ Computer Science
+
+* [알고리즘](computer-science/undefined/README.md)
+  * [이진 탐색 시 pivot 지정 고려 사항](computer-science/undefined/pivot.md)
+* [자료구조](computer-science/undefined-1.md)
+* [네트워크](computer-science/undefined-2.md)
 
 ## 🟪 Design pattern
 
