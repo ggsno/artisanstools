@@ -2,6 +2,10 @@
 
 ## 장인의 도구들
 
-공부한 것들을 기록하는 블로그입니다.&#x20;
+나중에 보기 편하도록 정리용 블로그입니다.
 
-[https://ggsno.gitbook.io/artisans-tools/](https://ggsno.gitbook.io/artisans-tools/)
+{% embed url="https://ggsno.gitbook.io/artisans-tools/" %}
+
+쉽게 이해할 수 있게 포스팅한 블로그는 아래로 고고
+
+{% embed url="https://ggsno.tistory.com/" %}
