@@ -15,6 +15,8 @@
   * [promise 프로미스](web-front-end/javascript/promise.md)
 * [React](web-front-end/react/README.md)
   * [제어/비제어 컴포넌트](web-front-end/react/undefined.md)
+* [CI / CD](web-front-end/ci-cd/README.md)
+  * [CD :: github actions + AWS S3](web-front-end/ci-cd/cd-github-actions-+-aws-s3.md)
 
 ## 🟪 Design pattern
 
