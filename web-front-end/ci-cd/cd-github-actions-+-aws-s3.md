@@ -1,6 +1,6 @@
 # CD :: github actions + AWS S3
 
-[https://ggsno.tistory.com/13](https://ggsno.tistory.com/13)
+블로그 포스팅 링크: [https://ggsno.tistory.com/13](https://ggsno.tistory.com/13)
 
 #### Github Actions
 
