@@ -1,8 +1,6 @@
----
-description: https://ggsno.tistory.com/13 요약
----
-
 # CD :: github actions + AWS S3
+
+[https://ggsno.tistory.com/13](https://ggsno.tistory.com/13)
 
 #### Github Actions
 
