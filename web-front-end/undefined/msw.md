@@ -13,25 +13,23 @@ npx msw init <PUBLIC_DIR>
 import { rest, setupWorker } from "msw";
 
 const mockData = {
-  hello: "hello",
+  data: ["hello"],
 };
 
 const mockApis = [
   rest.get(`/api/hello`, async (req, res, ctx) => {
-    return res(ctx.json(mockData.hello));
+    return res(ctx.json(mockData.data));
   }),
   rest.post(`/api/hello`, async (req, res, ctx) => {
-    mockData.hello = await req.json();
+    mockData.data.push(await req.json());
     return res(ctx.status(201));
   }),
 ];
 
-async function initMocks() {
+export default function initMocks() {
   const worker = setupWorker(...mockApis);
   worker.start();
 }
-
-export default initMocks;
 ```
 
 ```tsx
