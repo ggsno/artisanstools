@@ -1,11 +1,9 @@
-# 🪑 Artisan's Tools
+---
+description: 간편하게 볼 수 있는 저장소
+---
 
-## 장인의 도구들
+# 🪑 dev archive
 
-나중에 보기 편하도록 정리용 블로그입니다.
-
-{% embed url="https://ggsno.gitbook.io/artisans-tools/" %}
-
-쉽게 이해할 수 있게 포스팅한 블로그는 아래로 고고
+회고, 후기, 풀어 쓴 글 등은 아래 블로그로
 
 {% embed url="https://ggsno.tistory.com/" %}
